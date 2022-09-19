@@ -1,0 +1,51 @@
+Dialga  
+Ability: Pressure  
+EVs: 144 HP / 252 Atk / 112 Def  
+Brave Nature  
+- Dragon Pulse  
+- Dragon Claw  
+- Flash Cannon  
+- Roar of Time  
+
+Empoleon  
+Ability: Torrent  
+EVs: 152 HP / 152 Atk / 156 Def  
+Quirky Nature  
+- Hydro Pump  
+- Aqua Jet  
+- Whirlpool  
+- Bubble Beam  
+
+Luxray  
+Ability: Rivalry  
+EVs: 252 HP / 112 Atk / 116 Def  
+- Thunderbolt  
+- Spark  
+- Discharge  
+- Crunch  
+
+Staraptor  
+Ability: Intimidate  
+EVs: 236 HP / 136 Atk / 136 Def  
+- Close Combat  
+- Aerial Ace  
+- Brave Bird  
+- Wing Attack  
+
+Mewtwo  
+Ability: Pressure  
+EVs: 124 HP / 124 Atk / 120 Def / 112 SpA  
+- Shadow Ball  
+- Psychic  
+- Bulk Up  
+- Drain Punch  
+
+Lucario  
+Ability: Steadfast  
+EVs: 132 HP / 128 Atk / 136 Def / 112 Spe  
+Lonely Nature  
+- Close Combat  
+- Earthquake  
+- High Jump Kick  
+- Low Kick  
+
